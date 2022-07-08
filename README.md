@@ -1,2 +1,2 @@
-# desafio-portifolio-rocketseat
-Desafio da Rocketseat para criar um portifólio :`)
+# desafio-portfolio-rocketseat
+Desafio da Rocketseat para criar um portfolio :`)
